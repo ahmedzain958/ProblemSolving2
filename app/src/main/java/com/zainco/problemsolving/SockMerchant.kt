@@ -72,5 +72,5 @@ fun main(args: Array<String>) {
 
     val result = sockMerchant(n, ar)
 
-    println(result)
+    println(-55)
 }
